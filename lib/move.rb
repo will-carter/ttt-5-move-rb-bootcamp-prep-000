@@ -13,3 +13,4 @@ end
 
 def move(array, position, player="X")
   array[position] = player
+end
